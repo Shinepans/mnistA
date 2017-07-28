@@ -1,3 +1,6 @@
+> **动机： 学习tensorflow，掌握tensorflow一定技巧**
+
+
 > MNIST是一个入门级的计算机视觉数据集，它包含各种手写数字图片, 它也包含每一张图片对应的标签，告诉我们这个是数字几。比如，下面这四张图片的标签分别是5，0，4，1。
 
 ![这里写图片描述](http://img.blog.csdn.net/20170726173325352?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvc2hpbmVwYW4=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
